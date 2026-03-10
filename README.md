@@ -1,150 +1,151 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nadelson%20Camelia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Creator&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nadelson%20Camelia&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20·%20AI%20Engineer%20·%20SaaS%20Builder&descAlignY=62&descSize=17&descColor=c9b8ff"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+%F0%9F%87%A9%F0%9F%87%B4+Dominican+Republic;Building+SaaS+%26+AI-Powered+Apps;Python+%7C+Node.js+%7C+APIs+%7C+RAG+Systems;19+years+old+%26+building+the+future+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C9B8FF&center=true&vCenter=true&width=650&height=50&lines=Hey+there+👋+I'm+Nadelson;I+turn+ideas+into+real+products+🚀;Python+%7C+Node.js+%7C+AI+%7C+SaaS+%7C+APIs;Available+for+hire+🟢+Let's+build+something!" alt="Typing SVG" />
+</div>
 
 <br/>
 
-<!-- Profile views & social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=nadelson-camelia&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadelson-camelia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://nadelson.dev)
+<div align="center">
+
+[![Location](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=6EE7B7&center=true&vCenter=true&width=500&lines=🇩🇴+Based+in+Dominican+Republic;Open+to+Remote+Work+Worldwide+🌍;19+y%2Fo+·+3%2B+years+of+experience)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```python
-class NadelsonCamelia:
-    def __init__(self):
-        self.name        = "Nadelson Camelia"
-        self.age         = 19
-        self.location    = "🇩🇴 Dominican Republic"
-        self.role        = "Full Stack Developer"
-        self.experience  = "3+ years"
-        self.languages   = ["Python", "JavaScript", "CSS", "SQL"]
-        self.stack       = ["Backend", "Frontend", "APIs", "SaaS", "RAG / AI"]
-        self.available   = True  # Open to work 🟢
+[![Profile Views](https://komarev.com/ghpvc/?username=Kellyjean123&color=blueviolet&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/Kellyjean123)
+[![GitHub followers](https://img.shields.io/github/followers/Kellyjean123?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/Kellyjean123)
 
-    def say_hi(self):
-        print("Hey! I build fast, scalable apps and AI-powered products.")
-        print("If you need it built — I can build it. 🚀")
+</div>
 
-me = NadelsonCamelia()
-me.say_hi()
+<br/>
+
+## 🧬 About Me
+
+```typescript
+const nadelson = {
+  name:        "Nadelson Camelia",
+  age:          19,
+  from:        "🇩🇴 Dominican Republic",
+  role:        "Full Stack Developer & AI Engineer",
+  experience:  "3+ years",
+
+  skills: {
+    languages:  ["Python", "JavaScript", "CSS"],
+    backend:    ["Node.js", "Express", "FastAPI", "REST APIs"],
+    frontend:   ["HTML", "CSS", "JS", "Responsive Design"],
+    ai:         ["RAG Systems", "LLMs", "OpenAI API", "LangChain"],
+    saas:       ["SaaS Architecture", "Auth", "Payments", "Dashboards"],
+    databases:  ["PostgreSQL", "MongoDB", "Supabase"],
+  },
+
+  currentFocus: "Building AI-powered SaaS products",
+  openToWork:    true,  // 🟢 Hire me!
+  motto:        "Build fast. Ship faster. Make it count.",
+};
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🛠️ My Arsenal
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,js,css,html,ts&theme=dark" />
 
-### 🤖 AI & SaaS
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-a78bfa?style=for-the-badge&logo=databricks&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS%20Builder-0f0c29?style=for-the-badge&logo=stripe&logoColor=white)
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman&theme=dark" />
 
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,firebase&theme=dark" />
 
----
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
 
-## 🚀 What I Build
+</div>
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-### 🤖 AI & RAG Systems
-Building intelligent apps with **Retrieval-Augmented Generation** — connecting LLMs with real data sources for accurate, context-aware AI products.
+## ⚡ Specialties
 
-</td>
-<td width="50%">
+<div align="center">
 
-### ⚡ SaaS Products
-End-to-end SaaS platforms from idea to launch — auth, payments, dashboards, APIs and everything in between.
+| 🤖 AI & RAG Systems | ⚡ SaaS Products | 🔌 API Development | 🎨 Full Stack |
+|:---:|:---:|:---:|:---:|
+| LLMs + real data pipelines | From idea to live product | REST APIs that scale | End-to-end delivery |
+| Context-aware AI apps | Auth · Payments · Dash | Node.js & Python backends | Beautiful & functional |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
 
-### 🔌 API Development
-Designing and building robust REST APIs with Node.js & Python — fast, secure and production-ready.
-
-</td>
-<td width="50%">
-
-### 🎨 Full Stack Apps
-From beautiful frontends to powerful backends — I handle the full picture and ship products that work.
-
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadelson-camelia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadelson-camelia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kellyjean123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c9b8ff&icon_color=6ee7b7&text_color=ffffff&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyjean123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c9b8ff&text_color=ffffff" />
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nadelson-camelia&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=Kellyjean123&theme=tokyonight&hide_border=true&background=0D1117&ring=c9b8ff&fire=6ee7b7&currStreakLabel=c9b8ff&sideLabels=ffffff&dates=888888" />
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nadelson-camelia&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kellyjean123&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7)
 
 </div>
 
----
+<br/>
 
-## 🌐 Let's Connect
+## 📈 Contribution Activity
 
 <div align="center">
 
-> *"I'm 19, from the Dominican Republic, and I'm just getting started. Every line of code is a step forward."*
-
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadelson@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadelson-camelia)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://nadelson.dev)
-
-**🟢 Available for freelance & full-time opportunities**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kellyjean123&bg_color=0D1117&color=c9b8ff&line=6ee7b7&point=ffffff&area=true&hide_border=true)
 
 </div>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<br/>
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Got+a+project+in+mind%3F+Let's+talk+👇;I'm+available+for+freelance+%26+full-time+roles;I+build+it+clean%2C+fast+%26+production-ready." />
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadelson@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadelson-camelia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c9b8ff?style=for-the-badge&logo=vercel&logoColor=black)](https://nadelson.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18091234567)
+
+<br/>
+
+> *"I'm 19 years old, from the Dominican Republic 🇩🇴, and I've been building real products for 3+ years.*
+> *Age is just a number — the code speaks for itself."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Kellyjean123/Kellyjean123/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
