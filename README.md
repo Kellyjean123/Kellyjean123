@@ -5,10 +5,12 @@
 
 <br/>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nadelson+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;SaaS+Builder+%F0%9F%92%BC;Open+to+Remote+Work+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<!-- TYPING SVG - Servicio más confiable -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nadelson+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;SaaS+Builder+%F0%9F%92%BC;Open+to+Remote+Work+%F0%9F%8C%8D" alt="Typing SVG"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <!-- BADGES REDES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -69,30 +71,28 @@ const nadelson = {
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyjean123&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyjean123&layout=compact&theme=radical&hide_border=true"/>
+<!-- Usando anuraghazra que es el más estable -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyjean123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Kellyjean123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
----
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kellyjean123&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyjean123&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kellyjean123&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kellyjean123&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&hide_border=true"/>
+
+---
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kellyjean123&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 ---
 
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-⭐ *Si te gusta mi trabajo, no olvides dejar una estrella!* ⭐
+⭐ *Si te gusta mi trabajo, dale una estrella!* ⭐
 
 </div>
